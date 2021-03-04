@@ -20,6 +20,12 @@ Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia
 
 ![](figs/marca-vertical-UFRB-JPG.jpg)
 
+- Casa
+- Pneu
+- Bloco
+- Água
+- Terra
+ 
 ## Veja a tabela abaixo
 
 |Turma|Qnt de Alunos|
