@@ -23,6 +23,6 @@ Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia
 ## Veja a tabela abaixo
 
 |Turma|Qnt de Alunos|
-|: ----- :|:-----------:|
-|A|25|
-|B| 31|
+
+
+
